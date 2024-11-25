@@ -37,7 +37,7 @@ A web-based platform designed to help learners practice math under timed conditi
 ## 🤝 Let's Connect
 - 🌐 **Portfolio**: [wilfredmoogi.dev](https://wilfredmoogi.vercel.app/)
 - 💼 **LinkedIn**: [linkedin.com/in/wilfredmoogi](https://linkedin.com/in/wilfredmoogi)
-- 🐦 **Twitter**: [twitter.com/WilfredMoogi](https://twitter.com/WilfredMoogi)
+- 🐦 **Twitter**: [twitter.com/WilfredMoogi](https://x.com/WMoogi)
 - 💌 **Email**: wilfredmoogi@example.com
 
 ---
