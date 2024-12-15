@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I’m **Wilfred Moogi** – a proud **Math Teacher** and passionate **Full Stack Developer** with a mission to bridge the worlds of education and technology. My journey is rooted in a deep love for Mathematics and a desire to empower learners to excel in Mathematics.
+Hi, I’m **Wilfred Moogi** – a proud **Math Teacher** and passionate **Full Stack Developer** with a mission to bridge the worlds of education and technology.
 
 ---
 
